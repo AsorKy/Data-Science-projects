@@ -1,7 +1,7 @@
 # Curso para Crear tus Proyectos de Ciencia de Datos
 
 <!-- badges: start -->
-[![@jricalanis](https://img.shields.io/badge/@AsorKy-Github-blue?&logoColor=white)](https://github.com/ricalanis)
+[![@AsorKy](https://img.shields.io/badge/@AsorKy-Github-blue?&logoColor=white)](https://github.com/AsorKy)
 [![Platzi](https://img.shields.io/badge/Curso_Platzi-Crear_tus_proyectos_de_ciencia_de_datos-green&logoColor=white)](https://platzi.com/datos/)
 <!-- badges: end -->
 
